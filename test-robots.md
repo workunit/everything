@@ -3,6 +3,8 @@ Robots.txt
 =
 > A robots.txt file must be accessible in the root folder.
 
+A change here.
+
 Description:
 -
 The robots.txt file must be available at www.yoursite.com/robots.txt. 
