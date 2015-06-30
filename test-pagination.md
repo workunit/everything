@@ -1,7 +1,6 @@
-[RIDXX
 PRIO 3
-Pagination
-=
+# Pagination
+
 > Use rel=”next” and rel=”prev” if you paginate content over multiple pages.
 
 Description:
@@ -9,7 +8,7 @@ Description:
 Place the next and prev tags in the <head> section of your pages to indicate relationships between individual URLs.
 Code Examples:
 -
-If the entire website should be accessible to search engines, state the following in the robots.txt-File. : 
+If the entire website should be accessible to search engines, state the following in the robots.txt-File. :
 
     <link rel="next" href="https://example.com/article?pg=2">
 
@@ -26,4 +25,3 @@ Sources and Guidelines:
 -
  - http://googlewebmastercentral.blogspot.ch/2011/09/pagination-with-relnext-and-relprev.html
  - https://support.google.com/webmasters/answer/1663744?hl=en
-
